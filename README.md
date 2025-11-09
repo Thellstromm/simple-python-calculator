@@ -48,7 +48,9 @@ macOS / Linux:
 
 python3 "calculator v1.py"
 
-💡 Future Improvements
+---
+
+💡 Future Improveme
 
 Some ideas for extending the calculator:
 
@@ -60,16 +62,22 @@ Create a GUI (Graphical User Interface) using Tkinter or PyQt
 
 Add keyboard shortcuts or command-line arguments
 
+---
+
 👨‍💻 Author
 
 Created with ❤️ by Ludwig Thellström
 If you like this project, give it a ⭐ on GitHub
 !
 
+---
+
 📜 License
 
 This project is open source and available under the MIT License
 .
+
+---
 
 🧩 Project Structure
 calculator v1.py   # Main Python file
