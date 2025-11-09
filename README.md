@@ -40,8 +40,7 @@ Enter second number:
 - Python 3.x (download at [python.org](https://www.python.org/downloads/))
 
 ### ▶️ Run in Terminal or Command Prompt
-**Windows:**
-```bash
+Windows:
 python "calculator v1.py"
 
 
